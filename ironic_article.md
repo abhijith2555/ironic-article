@@ -106,10 +106,11 @@ In short, Ironic brings the flexibility of the cloud to the bare metal world. It
 ---
 
 **Tools used:**  
-Markdown (for formatting), Launchpad and GitHub for hosting the article.
+Markdown (for formatting), GitHub for hosting the article.
 
 **Author:**  
 Abhijith P C  
 
 **Date:**  
 26 October 2025
+
